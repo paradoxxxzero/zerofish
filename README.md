@@ -1,0 +1,2 @@
+# zerofish
+Fish prompt 
